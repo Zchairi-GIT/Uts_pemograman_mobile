@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- Halaman Profile -->
+    <string name="profile_name">Zikri Yohanda Chairi</string>
+
+    <string name="label_nama">Nama</string>
+    <string name="label_nim">NIM</string>
+    <string name="label_email">Email</string>
+    <string name="label_no_hp">No Hp</string>
+    <string name="label_prodi">Prodi</string>
+    <string name="label_perguruan">Perguruan Tinggi</string>
+    <string name="label_jurusan">Jurusan</string>
+    <string name="label_alamat">Alamat</string>
+    <string name="label_matkul">Mata Kuliah</string>
+
+    <string name="value_nama">Zikri Yohanda Chairi</string>
+    <string name="value_nim">6304240015</string>
+    <string name="value_Email">zikriyohanda3@gmail.com</string>
+    <string name="value_no_hp">082170504</string>
+    <string name="value_prodi">Rekayasa Perangkat Lunak</string>
+    <string name="value_perguruan">Politeknik Negeri Bengkalis</string>
+    <string name="value_jurusan">Teknik Informatika</string>
+    <string name="value_alamat">Jl. Kelapapati Darat</string>
+    <string name="value_matkul">Pemrograman Mobile Lanjut</string>
+
+
+    <string name="image_product">Gambar produk</string>
+    <string name="image_detail_product">Gambar detail produk</string>
+    <string name="image_view_product">Gambar produk</string>
+    <string name="product_name">Nama Produk</string>
+    <string name="label_id">Product ID</string>
+    <string name="label_brand">Brand</string>
+    <string name="label_category">Kategori</string>
+    <string name="label_price">Harga</string>
+    <string name="label_discount">Diskon</string>
+    <string name="label_rating">Rating</string>
+    <string name="label_stock">Stok</string>
+    <string name="label_availability">Ketersediaan</string>
+    <string name="label_tags">Tags</string>
+    <string name="label_dimensions">Dimensi (W x H x D)</string>
+    <string name="label_description">Deskripsi</string>
+    <string name="label_reviews">Reviews</string>
+    <string name="tampilkan_gambar">Tampilkan Gambar</string>
+</resources>
